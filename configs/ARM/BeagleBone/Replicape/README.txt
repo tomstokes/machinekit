@@ -1,0 +1,31 @@
+The BeagleBone Black pin configuration for Replicape 00A3 through 0A4A is:
+
+FAULT_EXT_2     P8.8
+FAULT_Y         P8.9
+FAULT_X         P8.10
+STEP_EXT_2      P8.11
+STEP_Y          P8.12
+STEP_Z          P8.13
+DIR_Z           P8.14
+DIR_EXT_1       P8.15
+DIR_EXT_2       P8.16
+STEP_X          P8.17
+FAULT_EXT_1     P8.18
+DIR_Y           P8.19
+DIR_X           P8.26
+END_STOP_X2     P9.11
+STEP_EXT_1      P9.12
+END_STOP_Z1     P9.13
+END_STOP_Y2     P9.16
+END_STOP_Z2     P9.18
+Dallas_1W       P9.22
+END_STOP_Y1     P9.23
+FAULT_Z         P9.24
+END_STOP_X1     P9.25
+SPI1_CS0        P9.28
+SPI1_MOSI       P9.30
+SPI1_SCLK       P9.31
+AIN4            P9.33
+AIN6            P9.35
+AIN5            P9.36
+SPI1_CS1        P9.42
